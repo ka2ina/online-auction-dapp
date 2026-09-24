@@ -1,0 +1,15 @@
+# Hardhat
+node_modules/
+artifacts/
+cache/
+typechain/
+typechain-types/
+coverage/
+coverage.json
+
+# Sicurezza
+.env
+
+# Varie
+.DS_Store
+node_modules
